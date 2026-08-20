@@ -1,0 +1,30 @@
+# KiCad temporary and backup files
+*.bak
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*-save.kicad_pcb
+*-save.kicad_sch
+_autosave-*
+*.tmp
+*-backups/
+fp-info-cache
+
+# KiCad user local settings (window layouts, layer visibility, local paths)
+*.kicad_prl
+
+# ERC and DRC report files
+*.rpt
+
+# KiCad legacy backup files
+*.000
+*.bck
+*_autosave.kicad_pcb
+*_autosave.kicad_sch
+
+# OS and Editor artifacts
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*~
+.vscode/
