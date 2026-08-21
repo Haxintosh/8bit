@@ -2839,7 +2839,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 131.572 107.95 90)
 			(hide yes)
 			(show_name no)
@@ -2999,7 +2999,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
 			(at 123.19 115.57 0)
 			(hide yes)
 			(show_name no)
@@ -3092,7 +3092,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
 			(at 153.67 115.57 0)
 			(hide yes)
 			(show_name no)
@@ -3263,7 +3263,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
 			(at 138.43 115.57 0)
 			(hide yes)
 			(show_name no)
@@ -3356,7 +3356,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
 			(at 128.27 115.57 0)
 			(hide yes)
 			(show_name no)
@@ -3448,7 +3448,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 121.412 107.95 90)
 			(hide yes)
 			(show_name no)
@@ -3530,7 +3530,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
 			(at 133.35 115.57 0)
 			(hide yes)
 			(show_name no)
@@ -3622,7 +3622,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 146.812 107.95 90)
 			(hide yes)
 			(show_name no)
@@ -3703,7 +3703,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 116.332 107.95 90)
 			(hide yes)
 			(show_name no)
@@ -3939,7 +3939,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 126.492 107.95 90)
 			(hide yes)
 			(show_name no)
@@ -4021,7 +4021,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
 			(at 143.51 115.57 0)
 			(hide yes)
 			(show_name no)
@@ -4113,7 +4113,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 141.732 107.95 90)
 			(hide yes)
 			(show_name no)
@@ -4195,7 +4195,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-28_W15.24mm"
+		(property "Footprint" "Package_DIP:DIP-28_W15.24mm_Socket"
 			(at 101.6 99.06 0)
 			(hide yes)
 			(show_name no)
@@ -4354,7 +4354,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 151.892 107.95 90)
 			(hide yes)
 			(show_name no)
@@ -4435,7 +4435,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 136.652 107.95 90)
 			(hide yes)
 			(show_name no)
@@ -4517,7 +4517,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
 			(at 148.59 115.57 0)
 			(hide yes)
 			(show_name no)
@@ -4765,7 +4765,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-20_W7.62mm_Socket"
 			(at 181.61 88.9 0)
 			(hide yes)
 			(show_name no)
@@ -4901,7 +4901,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
 			(at 118.11 115.57 0)
 			(hide yes)
 			(show_name no)
