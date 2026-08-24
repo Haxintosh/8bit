@@ -1482,6 +1482,16 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "investigate negated behaviour"
+		(exclude_from_sim no)
+		(at 103.886 106.934 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "347e49ce-d5fe-4d20-982a-8bd8e8fe912d")
+	)
 	(junction
 		(at 190.5 104.14)
 		(diameter 0)

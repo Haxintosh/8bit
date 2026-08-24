@@ -5936,6 +5936,16 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "use 573 instead"
+		(exclude_from_sim no)
+		(at 92.71 101.854 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "2918a19d-f020-468f-96f5-88d6154b3d98")
+	)
 	(text "Flags Register"
 		(exclude_from_sim no)
 		(at 349.758 175.514 0)
