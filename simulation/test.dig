@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="utf-8"?>
+<circuit>
+  <version>2</version>
+  <attributes/>
+  <visualElements>
+    <visualElement>
+      <elementName>In</elementName>
+      <elementAttributes/>
+      <pos x="780" y="260"/>
+    </visualElement>
+    <visualElement>
+      <elementName>step_counter.dig</elementName>
+      <elementAttributes/>
+      <pos x="800" y="260"/>
+    </visualElement>
+    <visualElement>
+      <elementName>PowerSupply</elementName>
+      <elementAttributes/>
+      <pos x="640" y="300"/>
+    </visualElement>
+    <visualElement>
+      <elementName>In</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>VCC</string>
+        </entry>
+        <entry>
+          <string>InDefault</string>
+          <value v="1" z="false"/>
+        </entry>
+      </elementAttributes>
+      <pos x="600" y="300"/>
+    </visualElement>
+    <visualElement>
+      <elementName>In</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>GND</string>
+        </entry>
+      </elementAttributes>
+      <pos x="600" y="340"/>
+    </visualElement>
+    <visualElement>
+      <elementName>In</elementName>
+      <elementAttributes/>
+      <pos x="780" y="320"/>
+    </visualElement>
+    <visualElement>
+      <elementName>In</elementName>
+      <elementAttributes/>
+      <pos x="780" y="360"/>
+    </visualElement>
+    <visualElement>
+      <elementName>LED</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="1"/>
+        </entry>
+        <entry>
+          <string>Color</string>
+          <awt-color>
+            <red>0</red>
+            <green>255</green>
+            <blue>0</blue>
+            <alpha>255</alpha>
+          </awt-color>
+        </entry>
+      </elementAttributes>
+      <pos x="1120" y="240"/>
+    </visualElement>
+    <visualElement>
+      <elementName>LED</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="1"/>
+        </entry>
+        <entry>
+          <string>Color</string>
+          <awt-color reference="../../../../visualElement[8]/elementAttributes/entry[2]/awt-color"/>
+        </entry>
+      </elementAttributes>
+      <pos x="1080" y="240"/>
+    </visualElement>
+    <visualElement>
+      <elementName>LED</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="1"/>
+        </entry>
+        <entry>
+          <string>Color</string>
+          <awt-color reference="../../../../visualElement[8]/elementAttributes/entry[2]/awt-color"/>
+        </entry>
+      </elementAttributes>
+      <pos x="1040" y="240"/>
+    </visualElement>
+    <visualElement>
+      <elementName>LED</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="1"/>
+        </entry>
+        <entry>
+          <string>Color</string>
+          <awt-color reference="../../../../visualElement[8]/elementAttributes/entry[2]/awt-color"/>
+        </entry>
+      </elementAttributes>
+      <pos x="1000" y="240"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Text</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Description</string>
+          <string>Step</string>
+        </entry>
+      </elementAttributes>
+      <pos x="1140" y="220"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>NetName</string>
+          <string>STEP_0</string>
+        </entry>
+      </elementAttributes>
+      <pos x="1140" y="260"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>NetName</string>
+          <string>STEP_1</string>
+        </entry>
+      </elementAttributes>
+      <pos x="1140" y="280"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>NetName</string>
+          <string>STEP_2</string>
+        </entry>
+      </elementAttributes>
+      <pos x="1140" y="300"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>NetName</string>
+          <string>STEP_3</string>
+        </entry>
+      </elementAttributes>
+      <pos x="1140" y="320"/>
+    </visualElement>
+  </visualElements>
+  <wires>
+    <wire>
+      <p1 x="620" y="320"/>
+      <p2 x="640" y="320"/>
+    </wire>
+    <wire>
+      <p1 x="780" y="320"/>
+      <p2 x="800" y="320"/>
+    </wire>
+    <wire>
+      <p1 x="960" y="320"/>
+      <p2 x="1000" y="320"/>
+    </wire>
+    <wire>
+      <p1 x="1000" y="320"/>
+      <p2 x="1140" y="320"/>
+    </wire>
+    <wire>
+      <p1 x="780" y="260"/>
+      <p2 x="800" y="260"/>
+    </wire>
+    <wire>
+      <p1 x="620" y="260"/>
+      <p2 x="720" y="260"/>
+    </wire>
+    <wire>
+      <p1 x="960" y="260"/>
+      <p2 x="1120" y="260"/>
+    </wire>
+    <wire>
+      <p1 x="1120" y="260"/>
+      <p2 x="1140" y="260"/>
+    </wire>
+    <wire>
+      <p1 x="600" y="340"/>
+      <p2 x="620" y="340"/>
+    </wire>
+    <wire>
+      <p1 x="720" y="280"/>
+      <p2 x="800" y="280"/>
+    </wire>
+    <wire>
+      <p1 x="960" y="280"/>
+      <p2 x="1080" y="280"/>
+    </wire>
+    <wire>
+      <p1 x="1080" y="280"/>
+      <p2 x="1140" y="280"/>
+    </wire>
+    <wire>
+      <p1 x="620" y="360"/>
+      <p2 x="720" y="360"/>
+    </wire>
+    <wire>
+      <p1 x="780" y="360"/>
+      <p2 x="800" y="360"/>
+    </wire>
+    <wire>
+      <p1 x="600" y="300"/>
+      <p2 x="620" y="300"/>
+    </wire>
+    <wire>
+      <p1 x="720" y="300"/>
+      <p2 x="800" y="300"/>
+    </wire>
+    <wire>
+      <p1 x="960" y="300"/>
+      <p2 x="1040" y="300"/>
+    </wire>
+    <wire>
+      <p1 x="620" y="300"/>
+      <p2 x="640" y="300"/>
+    </wire>
+    <wire>
+      <p1 x="1040" y="300"/>
+      <p2 x="1140" y="300"/>
+    </wire>
+    <wire>
+      <p1 x="720" y="260"/>
+      <p2 x="720" y="280"/>
+    </wire>
+    <wire>
+      <p1 x="720" y="300"/>
+      <p2 x="720" y="360"/>
+    </wire>
+    <wire>
+      <p1 x="800" y="340"/>
+      <p2 x="800" y="360"/>
+    </wire>
+    <wire>
+      <p1 x="1040" y="240"/>
+      <p2 x="1040" y="300"/>
+    </wire>
+    <wire>
+      <p1 x="1120" y="240"/>
+      <p2 x="1120" y="260"/>
+    </wire>
+    <wire>
+      <p1 x="1080" y="240"/>
+      <p2 x="1080" y="280"/>
+    </wire>
+    <wire>
+      <p1 x="1000" y="240"/>
+      <p2 x="1000" y="320"/>
+    </wire>
+    <wire>
+      <p1 x="620" y="320"/>
+      <p2 x="620" y="340"/>
+    </wire>
+    <wire>
+      <p1 x="620" y="260"/>
+      <p2 x="620" y="300"/>
+    </wire>
+    <wire>
+      <p1 x="620" y="340"/>
+      <p2 x="620" y="360"/>
+    </wire>
+  </wires>
+  <measurementOrdering/>
+</circuit>
