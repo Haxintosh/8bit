@@ -2,8 +2,10 @@
 8-bit SAP-3 inspired architecture using 74xx series logic chips.
 
 ## Files
-KiCad design files can be found at the root, clone and open `8bit.kicad_pro`.  
+KiCad design files can be found under `schematic/`, clone and open `8bit.kicad_pro`.  
+Schematic PDF is under `schematic/pdf/`.  
 Simulation files for Digital can be found under `simulation/`.  
+Open the `main_manual.dig` in Digital to view the simulation.  
 Some of the hex files to program EEPROMs are under `simulation/hex/`.  
 
 ## Features
