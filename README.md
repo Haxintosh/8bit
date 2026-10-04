@@ -21,11 +21,11 @@ Some of the hex files to program EEPROMs are under `simulation/hex/`.
 - LCD output
 
 ## Demo
-1. A simplified SAP-1 version running fibonacci sequence code. (Video)
+1.  (Video) A simplified SAP-1 version running fibonacci sequence code.
 [![SAP-1 version running fibonacci sequence code](images/SAP1-FIB.png)](https://drive.google.com/file/d/1dBzOrb9bEsT9MGzf2OnXLOOiJT2EtECz/view?usp=sharing)
 
 2. SAP-3 in simulation
 ![SAP-3 digital simulation](images/main_manual_white_bg.png)
 
-3. SAP-3 running fibonacci code
+3. (Video) SAP-3 running fibonacci code
 [![SAP-3 running fibonacci sequence code](images/sap3_sim.png)](https://drive.google.com/file/d/1ePPz25QHvrzXUbd5AwPUnTJGdm06tiAX/view?usp=sharing)
