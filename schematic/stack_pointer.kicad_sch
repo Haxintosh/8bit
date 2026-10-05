@@ -5340,7 +5340,7 @@
 		)
 		(uuid "1a8d200c-14e9-4abf-9d2d-599d76a51708")
 	)
-	(hierarchical_label "~{SP_L_I}"
+	(hierarchical_label "SP_L_I"
 		(shape input)
 		(at 69.85 72.39 180)
 		(effects
