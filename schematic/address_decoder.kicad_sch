@@ -3005,12 +3005,6 @@
 		(uuid "9458eed8-51e5-469d-a4dd-40430be93839")
 	)
 	(junction
-		(at 254 147.32)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "98338528-5018-4254-834f-1202a2d7db80")
-	)
-	(junction
 		(at 213.36 105.41)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3177,6 +3171,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f4daddcc-f057-4d68-9ddf-f7e3f7c49c2c")
+	)
+	(junction
+		(at 254 147.32)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ff8e3620-0fa3-4f61-9491-ed87555c2367")
 	)
 	(no_connect
 		(at 238.76 95.25)
@@ -5671,7 +5671,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "05b208df-32d6-4702-bf66-38a1a600280a")
-		(property "Reference" "D75"
+		(property "Reference" "D57"
 			(at 107.188 92.71 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5747,7 +5747,7 @@
 		(instances
 			(project "8bit"
 				(path "/ce6ef060-f4bd-4228-ab8d-5cf6f386dba1/966ea3a8-e5ca-459e-b420-1b20e623a8eb"
-					(reference "D75")
+					(reference "D57")
 					(unit 1)
 				)
 			)
@@ -5764,7 +5764,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "0993b251-ca06-4354-8e3d-b2d096b64c69")
-		(property "Reference" "R92"
+		(property "Reference" "R82"
 			(at 147.828 87.63 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5828,7 +5828,7 @@
 		(instances
 			(project "8bit"
 				(path "/ce6ef060-f4bd-4228-ab8d-5cf6f386dba1/966ea3a8-e5ca-459e-b420-1b20e623a8eb"
-					(reference "R92")
+					(reference "R82")
 					(unit 1)
 				)
 			)
@@ -5845,7 +5845,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "0cda0827-0f82-49cf-8987-f3bb2648ef41")
-		(property "Reference" "D68"
+		(property "Reference" "D50"
 			(at 36.068 92.71 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5921,7 +5921,7 @@
 		(instances
 			(project "8bit"
 				(path "/ce6ef060-f4bd-4228-ab8d-5cf6f386dba1/966ea3a8-e5ca-459e-b420-1b20e623a8eb"
-					(reference "D68")
+					(reference "D50")
 					(unit 1)
 				)
 			)
@@ -5938,7 +5938,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "10fc424e-0273-43c9-9a3c-81a8873816cc")
-		(property "Reference" "R97"
+		(property "Reference" "R87"
 			(at 173.228 92.71 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6002,7 +6002,7 @@
 		(instances
 			(project "8bit"
 				(path "/ce6ef060-f4bd-4228-ab8d-5cf6f386dba1/966ea3a8-e5ca-459e-b420-1b20e623a8eb"
-					(reference "R97")
+					(reference "R87")
 					(unit 1)
 				)
 			)
@@ -6019,7 +6019,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "1e17a5ef-3c12-4887-aa93-04e878a1b53d")
-		(property "Reference" "R69"
+		(property "Reference" "R59"
 			(at 30.988 92.71 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6083,7 +6083,7 @@
 		(instances
 			(project "8bit"
 				(path "/ce6ef060-f4bd-4228-ab8d-5cf6f386dba1/966ea3a8-e5ca-459e-b420-1b20e623a8eb"
-					(reference "R69")
+					(reference "R59")
 					(unit 1)
 				)
 			)
@@ -6100,7 +6100,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "20f65d3c-f514-464b-a5ba-2bdd8bd87feb")
-		(property "Reference" "R85"
+		(property "Reference" "R75"
 			(at 112.268 92.71 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6164,7 +6164,7 @@
 		(instances
 			(project "8bit"
 				(path "/ce6ef060-f4bd-4228-ab8d-5cf6f386dba1/966ea3a8-e5ca-459e-b420-1b20e623a8eb"
-					(reference "R85")
+					(reference "R75")
 					(unit 1)
 				)
 			)
@@ -6181,7 +6181,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "21cf370c-37a9-4af0-a213-677ea4b59153")
-		(property "Reference" "D71"
+		(property "Reference" "D53"
 			(at 66.548 92.71 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6257,7 +6257,7 @@
 		(instances
 			(project "8bit"
 				(path "/ce6ef060-f4bd-4228-ab8d-5cf6f386dba1/966ea3a8-e5ca-459e-b420-1b20e623a8eb"
-					(reference "D71")
+					(reference "D53")
 					(unit 1)
 				)
 			)
@@ -6275,7 +6275,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2817d625-96b4-4648-930d-6a4186bfe3fe")
-		(property "Reference" "#PWR0185"
+		(property "Reference" "#PWR074"
 			(at 138.43 190.5 0)
 			(hide yes)
 			(show_name no)
@@ -6335,7 +6335,7 @@
 		(instances
 			(project "8bit"
 				(path "/ce6ef060-f4bd-4228-ab8d-5cf6f386dba1/966ea3a8-e5ca-459e-b420-1b20e623a8eb"
-					(reference "#PWR0185")
+					(reference "#PWR074")
 					(unit 1)
 				)
 			)
@@ -6352,7 +6352,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "28ac2b85-f96e-4801-b13b-0cfa6879dddd")
-		(property "Reference" "D69"
+		(property "Reference" "D51"
 			(at 46.228 92.71 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6428,7 +6428,7 @@
 		(instances
 			(project "8bit"
 				(path "/ce6ef060-f4bd-4228-ab8d-5cf6f386dba1/966ea3a8-e5ca-459e-b420-1b20e623a8eb"
-					(reference "D69")
+					(reference "D51")
 					(unit 1)
 				)
 			)
@@ -6445,7 +6445,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "29b5d26d-3463-451e-95f7-59f6331b604e")
-		(property "Reference" "R79"
+		(property "Reference" "R69"
 			(at 81.788 92.71 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6509,7 +6509,7 @@
 		(instances
 			(project "8bit"
 				(path "/ce6ef060-f4bd-4228-ab8d-5cf6f386dba1/966ea3a8-e5ca-459e-b420-1b20e623a8eb"
-					(reference "R79")
+					(reference "R69")
 					(unit 1)
 				)
 			)
@@ -6526,7 +6526,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "2b652ce6-af09-4cda-a53c-0bbcc1eb194e")
-		(property "Reference" "D77"
+		(property "Reference" "D59"
 			(at 127.508 92.71 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6602,7 +6602,7 @@
 		(instances
 			(project "8bit"
 				(path "/ce6ef060-f4bd-4228-ab8d-5cf6f386dba1/966ea3a8-e5ca-459e-b420-1b20e623a8eb"
-					(reference "D77")
+					(reference "D59")
 					(unit 1)
 				)
 			)
@@ -6619,7 +6619,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "2f9ed13a-5f90-4f93-be69-23035ebe2098")
-		(property "Reference" "R75"
+		(property "Reference" "R65"
 			(at 61.468 92.71 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6683,7 +6683,7 @@
 		(instances
 			(project "8bit"
 				(path "/ce6ef060-f4bd-4228-ab8d-5cf6f386dba1/966ea3a8-e5ca-459e-b420-1b20e623a8eb"
-					(reference "R75")
+					(reference "R65")
 					(unit 1)
 				)
 			)
@@ -6700,7 +6700,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "2fb35593-d5a7-47df-a12f-a46243683e4f")
-		(property "Reference" "R83"
+		(property "Reference" "R73"
 			(at 102.108 92.71 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6764,7 +6764,7 @@
 		(instances
 			(project "8bit"
 				(path "/ce6ef060-f4bd-4228-ab8d-5cf6f386dba1/966ea3a8-e5ca-459e-b420-1b20e623a8eb"
-					(reference "R83")
+					(reference "R73")
 					(unit 1)
 				)
 			)
@@ -6781,7 +6781,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "30671069-fc8f-4ef0-ac21-8d62e874d2f3")
-		(property "Reference" "R78"
+		(property "Reference" "R68"
 			(at 76.708 87.63 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6845,7 +6845,7 @@
 		(instances
 			(project "8bit"
 				(path "/ce6ef060-f4bd-4228-ab8d-5cf6f386dba1/966ea3a8-e5ca-459e-b420-1b20e623a8eb"
-					(reference "R78")
+					(reference "R68")
 					(unit 1)
 				)
 			)
@@ -6862,7 +6862,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "30bba393-8cf2-4183-9800-24f6c7a9d74f")
-		(property "Reference" "D65"
+		(property "Reference" "D68"
 			(at 253.492 116.84 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6938,7 +6938,7 @@
 		(instances
 			(project "8bit"
 				(path "/ce6ef060-f4bd-4228-ab8d-5cf6f386dba1/966ea3a8-e5ca-459e-b420-1b20e623a8eb"
-					(reference "D65")
+					(reference "D68")
 					(unit 1)
 				)
 			)
@@ -6956,7 +6956,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "31381656-bb2a-42a6-a97d-34345dfcc7e3")
-		(property "Reference" "#PWR048"
+		(property "Reference" "#PWR075"
 			(at 158.75 162.56 0)
 			(hide yes)
 			(show_name no)
@@ -7016,7 +7016,7 @@
 		(instances
 			(project "8bit"
 				(path "/ce6ef060-f4bd-4228-ab8d-5cf6f386dba1/966ea3a8-e5ca-459e-b420-1b20e623a8eb"
-					(reference "#PWR048")
+					(reference "#PWR075")
 					(unit 1)
 				)
 			)
@@ -7033,7 +7033,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "33333b09-6026-4e9f-9ae5-d91c41d6f262")
-		(property "Reference" "D66"
+		(property "Reference" "D67"
 			(at 248.412 116.84 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7109,7 +7109,7 @@
 		(instances
 			(project "8bit"
 				(path "/ce6ef060-f4bd-4228-ab8d-5cf6f386dba1/966ea3a8-e5ca-459e-b420-1b20e623a8eb"
-					(reference "D66")
+					(reference "D67")
 					(unit 1)
 				)
 			)
@@ -7126,7 +7126,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "34c5b51e-beb3-4b93-9145-2c2c672cf118")
-		(property "Reference" "R91"
+		(property "Reference" "R81"
 			(at 142.748 92.71 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7190,7 +7190,7 @@
 		(instances
 			(project "8bit"
 				(path "/ce6ef060-f4bd-4228-ab8d-5cf6f386dba1/966ea3a8-e5ca-459e-b420-1b20e623a8eb"
-					(reference "R91")
+					(reference "R81")
 					(unit 1)
 				)
 			)
@@ -7199,7 +7199,7 @@
 	(symbol
 		(lib_id "74xx:74LS00")
 		(at 261.62 147.32 0)
-		(unit 3)
+		(unit 2)
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7208,7 +7208,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "36a2652c-efb6-4f12-a876-08f1a24cac75")
-		(property "Reference" "U68"
+		(property "Reference" "U27"
 			(at 261.6117 138.43 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7306,8 +7306,8 @@
 		(instances
 			(project "8bit"
 				(path "/ce6ef060-f4bd-4228-ab8d-5cf6f386dba1/966ea3a8-e5ca-459e-b420-1b20e623a8eb"
-					(reference "U68")
-					(unit 3)
+					(reference "U27")
+					(unit 2)
 				)
 			)
 		)
@@ -7323,7 +7323,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "3f917949-3142-4328-ad80-76a344a07324")
-		(property "Reference" "D78"
+		(property "Reference" "D60"
 			(at 137.668 92.71 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7399,7 +7399,7 @@
 		(instances
 			(project "8bit"
 				(path "/ce6ef060-f4bd-4228-ab8d-5cf6f386dba1/966ea3a8-e5ca-459e-b420-1b20e623a8eb"
-					(reference "D78")
+					(reference "D60")
 					(unit 1)
 				)
 			)
@@ -7416,7 +7416,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "46dad242-722a-4a79-bcc1-7beb9d1ddccd")
-		(property "Reference" "D80"
+		(property "Reference" "D62"
 			(at 157.988 92.71 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7492,7 +7492,7 @@
 		(instances
 			(project "8bit"
 				(path "/ce6ef060-f4bd-4228-ab8d-5cf6f386dba1/966ea3a8-e5ca-459e-b420-1b20e623a8eb"
-					(reference "D80")
+					(reference "D62")
 					(unit 1)
 				)
 			)
@@ -7510,7 +7510,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "47fd7b8f-32b6-4f2d-96b5-ef4870a5657f")
-		(property "Reference" "U68"
+		(property "Reference" "U27"
 			(at 144.78 170.1799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7610,7 +7610,7 @@
 		(instances
 			(project "8bit"
 				(path "/ce6ef060-f4bd-4228-ab8d-5cf6f386dba1/966ea3a8-e5ca-459e-b420-1b20e623a8eb"
-					(reference "U68")
+					(reference "U27")
 					(unit 5)
 				)
 			)
@@ -7627,7 +7627,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "5162b5bd-90ea-4d9c-a543-2c23acc8e748")
-		(property "Reference" "D72"
+		(property "Reference" "D54"
 			(at 76.708 92.71 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7703,7 +7703,7 @@
 		(instances
 			(project "8bit"
 				(path "/ce6ef060-f4bd-4228-ab8d-5cf6f386dba1/966ea3a8-e5ca-459e-b420-1b20e623a8eb"
-					(reference "D72")
+					(reference "D54")
 					(unit 1)
 				)
 			)
@@ -7720,7 +7720,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "56509305-dd85-4e9d-97c0-08c6447cc098")
-		(property "Reference" "D81"
+		(property "Reference" "D63"
 			(at 168.148 92.71 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7796,7 +7796,7 @@
 		(instances
 			(project "8bit"
 				(path "/ce6ef060-f4bd-4228-ab8d-5cf6f386dba1/966ea3a8-e5ca-459e-b420-1b20e623a8eb"
-					(reference "D81")
+					(reference "D63")
 					(unit 1)
 				)
 			)
@@ -7813,7 +7813,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "5ecf541a-5f51-4415-b490-509b253df369")
-		(property "Reference" "R99"
+		(property "Reference" "R89"
 			(at 183.388 92.71 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7877,7 +7877,7 @@
 		(instances
 			(project "8bit"
 				(path "/ce6ef060-f4bd-4228-ab8d-5cf6f386dba1/966ea3a8-e5ca-459e-b420-1b20e623a8eb"
-					(reference "R99")
+					(reference "R89")
 					(unit 1)
 				)
 			)
@@ -7894,7 +7894,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "66c2abbf-6f2c-45a2-87ca-1e020b779840")
-		(property "Reference" "R74"
+		(property "Reference" "R64"
 			(at 56.388 87.63 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7958,7 +7958,7 @@
 		(instances
 			(project "8bit"
 				(path "/ce6ef060-f4bd-4228-ab8d-5cf6f386dba1/966ea3a8-e5ca-459e-b420-1b20e623a8eb"
-					(reference "R74")
+					(reference "R64")
 					(unit 1)
 				)
 			)
@@ -7975,7 +7975,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "6826da8f-c877-4911-8e34-0473f47cdec7")
-		(property "Reference" "R73"
+		(property "Reference" "R63"
 			(at 51.308 92.71 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8039,7 +8039,7 @@
 		(instances
 			(project "8bit"
 				(path "/ce6ef060-f4bd-4228-ab8d-5cf6f386dba1/966ea3a8-e5ca-459e-b420-1b20e623a8eb"
-					(reference "R73")
+					(reference "R63")
 					(unit 1)
 				)
 			)
@@ -8056,7 +8056,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "691c0d18-8b32-42b0-9cc7-8faf4895d170")
-		(property "Reference" "R87"
+		(property "Reference" "R77"
 			(at 122.428 92.71 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8120,7 +8120,7 @@
 		(instances
 			(project "8bit"
 				(path "/ce6ef060-f4bd-4228-ab8d-5cf6f386dba1/966ea3a8-e5ca-459e-b420-1b20e623a8eb"
-					(reference "R87")
+					(reference "R77")
 					(unit 1)
 				)
 			)
@@ -8137,7 +8137,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "6da5e2ff-4f44-46d0-8a8d-a23900dd23e6")
-		(property "Reference" "R96"
+		(property "Reference" "R86"
 			(at 168.148 87.63 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8201,7 +8201,7 @@
 		(instances
 			(project "8bit"
 				(path "/ce6ef060-f4bd-4228-ab8d-5cf6f386dba1/966ea3a8-e5ca-459e-b420-1b20e623a8eb"
-					(reference "R96")
+					(reference "R86")
 					(unit 1)
 				)
 			)
@@ -8218,7 +8218,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "71fdd47f-1acd-461c-bda4-4ce407757310")
-		(property "Reference" "D70"
+		(property "Reference" "D52"
 			(at 56.388 92.71 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8294,7 +8294,7 @@
 		(instances
 			(project "8bit"
 				(path "/ce6ef060-f4bd-4228-ab8d-5cf6f386dba1/966ea3a8-e5ca-459e-b420-1b20e623a8eb"
-					(reference "D70")
+					(reference "D52")
 					(unit 1)
 				)
 			)
@@ -8311,7 +8311,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "7bf168b4-6985-45e1-9b47-0e30640409de")
-		(property "Reference" "R65"
+		(property "Reference" "R93"
 			(at 253.492 121.92 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8375,7 +8375,7 @@
 		(instances
 			(project "8bit"
 				(path "/ce6ef060-f4bd-4228-ab8d-5cf6f386dba1/966ea3a8-e5ca-459e-b420-1b20e623a8eb"
-					(reference "R65")
+					(reference "R93")
 					(unit 1)
 				)
 			)
@@ -8392,7 +8392,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "83a4dbe4-2f93-4171-b6f0-2917c267ac31")
-		(property "Reference" "R93"
+		(property "Reference" "R83"
 			(at 152.908 92.71 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8456,7 +8456,7 @@
 		(instances
 			(project "8bit"
 				(path "/ce6ef060-f4bd-4228-ab8d-5cf6f386dba1/966ea3a8-e5ca-459e-b420-1b20e623a8eb"
-					(reference "R93")
+					(reference "R83")
 					(unit 1)
 				)
 			)
@@ -8473,7 +8473,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "8639fa4b-09c5-4eff-ade4-f03a27ed85b1")
-		(property "Reference" "R98"
+		(property "Reference" "R88"
 			(at 178.308 87.63 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8537,7 +8537,7 @@
 		(instances
 			(project "8bit"
 				(path "/ce6ef060-f4bd-4228-ab8d-5cf6f386dba1/966ea3a8-e5ca-459e-b420-1b20e623a8eb"
-					(reference "R98")
+					(reference "R88")
 					(unit 1)
 				)
 			)
@@ -8554,7 +8554,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "89d73eab-0e2d-435d-ab0e-63d678feb4c1")
-		(property "Reference" "D83"
+		(property "Reference" "D65"
 			(at 188.468 92.71 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8630,7 +8630,7 @@
 		(instances
 			(project "8bit"
 				(path "/ce6ef060-f4bd-4228-ab8d-5cf6f386dba1/966ea3a8-e5ca-459e-b420-1b20e623a8eb"
-					(reference "D83")
+					(reference "D65")
 					(unit 1)
 				)
 			)
@@ -8647,7 +8647,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "8a4bbd74-5aa5-4e56-83ea-b9be046ab630")
-		(property "Reference" "D74"
+		(property "Reference" "D56"
 			(at 97.028 92.71 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8723,7 +8723,7 @@
 		(instances
 			(project "8bit"
 				(path "/ce6ef060-f4bd-4228-ab8d-5cf6f386dba1/966ea3a8-e5ca-459e-b420-1b20e623a8eb"
-					(reference "D74")
+					(reference "D56")
 					(unit 1)
 				)
 			)
@@ -8741,7 +8741,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8b08d2bb-d973-4c06-afa2-7526bcb136e0")
-		(property "Reference" "U17"
+		(property "Reference" "U29"
 			(at 228.2033 80.01 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8847,7 +8847,7 @@
 		(instances
 			(project "8bit"
 				(path "/ce6ef060-f4bd-4228-ab8d-5cf6f386dba1/966ea3a8-e5ca-459e-b420-1b20e623a8eb"
-					(reference "U17")
+					(reference "U29")
 					(unit 1)
 				)
 			)
@@ -8864,7 +8864,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9094a5c1-6984-4554-8967-db5ee33db496")
-		(property "Reference" "R66"
+		(property "Reference" "R92"
 			(at 248.412 121.92 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8928,7 +8928,7 @@
 		(instances
 			(project "8bit"
 				(path "/ce6ef060-f4bd-4228-ab8d-5cf6f386dba1/966ea3a8-e5ca-459e-b420-1b20e623a8eb"
-					(reference "R66")
+					(reference "R92")
 					(unit 1)
 				)
 			)
@@ -8946,7 +8946,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "94248f23-b0eb-4c63-8834-2fe91f015751")
-		(property "Reference" "#PWR050"
+		(property "Reference" "#PWR072"
 			(at 114.3 106.68 0)
 			(hide yes)
 			(show_name no)
@@ -9006,7 +9006,7 @@
 		(instances
 			(project "8bit"
 				(path "/ce6ef060-f4bd-4228-ab8d-5cf6f386dba1/966ea3a8-e5ca-459e-b420-1b20e623a8eb"
-					(reference "#PWR050")
+					(reference "#PWR072")
 					(unit 1)
 				)
 			)
@@ -9024,7 +9024,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9d337dbd-8977-49ad-8646-c5fc1cccf803")
-		(property "Reference" "U18"
+		(property "Reference" "U28"
 			(at 165.1 170.1799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9118,7 +9118,7 @@
 		(instances
 			(project "8bit"
 				(path "/ce6ef060-f4bd-4228-ab8d-5cf6f386dba1/966ea3a8-e5ca-459e-b420-1b20e623a8eb"
-					(reference "U18")
+					(reference "U28")
 					(unit 3)
 				)
 			)
@@ -9135,7 +9135,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a001fc97-add8-4521-923d-dd61f5128be6")
-		(property "Reference" "D73"
+		(property "Reference" "D55"
 			(at 86.868 92.71 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9211,7 +9211,7 @@
 		(instances
 			(project "8bit"
 				(path "/ce6ef060-f4bd-4228-ab8d-5cf6f386dba1/966ea3a8-e5ca-459e-b420-1b20e623a8eb"
-					(reference "D73")
+					(reference "D55")
 					(unit 1)
 				)
 			)
@@ -9228,7 +9228,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a8d152aa-55bb-406d-b68d-e6d76261fec9")
-		(property "Reference" "R70"
+		(property "Reference" "R60"
 			(at 36.068 87.63 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9292,7 +9292,7 @@
 		(instances
 			(project "8bit"
 				(path "/ce6ef060-f4bd-4228-ab8d-5cf6f386dba1/966ea3a8-e5ca-459e-b420-1b20e623a8eb"
-					(reference "R70")
+					(reference "R60")
 					(unit 1)
 				)
 			)
@@ -9309,7 +9309,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "aac001df-29f6-4678-b62c-4c37ef8f289f")
-		(property "Reference" "D82"
+		(property "Reference" "D64"
 			(at 178.308 92.71 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9385,7 +9385,7 @@
 		(instances
 			(project "8bit"
 				(path "/ce6ef060-f4bd-4228-ab8d-5cf6f386dba1/966ea3a8-e5ca-459e-b420-1b20e623a8eb"
-					(reference "D82")
+					(reference "D64")
 					(unit 1)
 				)
 			)
@@ -9402,7 +9402,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "abf2ff2c-5fd7-4e76-951d-0438be1d2eae")
-		(property "Reference" "R67"
+		(property "Reference" "R91"
 			(at 243.332 121.92 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9466,7 +9466,7 @@
 		(instances
 			(project "8bit"
 				(path "/ce6ef060-f4bd-4228-ab8d-5cf6f386dba1/966ea3a8-e5ca-459e-b420-1b20e623a8eb"
-					(reference "R67")
+					(reference "R91")
 					(unit 1)
 				)
 			)
@@ -9483,7 +9483,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "acce3adf-5075-4323-afe1-7434923ee058")
-		(property "Reference" "R82"
+		(property "Reference" "R72"
 			(at 97.028 87.63 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9547,7 +9547,7 @@
 		(instances
 			(project "8bit"
 				(path "/ce6ef060-f4bd-4228-ab8d-5cf6f386dba1/966ea3a8-e5ca-459e-b420-1b20e623a8eb"
-					(reference "R82")
+					(reference "R72")
 					(unit 1)
 				)
 			)
@@ -9564,7 +9564,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "af6bd790-72cf-45df-bad5-104e4f5b5273")
-		(property "Reference" "R95"
+		(property "Reference" "R85"
 			(at 163.068 92.71 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9628,7 +9628,7 @@
 		(instances
 			(project "8bit"
 				(path "/ce6ef060-f4bd-4228-ab8d-5cf6f386dba1/966ea3a8-e5ca-459e-b420-1b20e623a8eb"
-					(reference "R95")
+					(reference "R85")
 					(unit 1)
 				)
 			)
@@ -9645,7 +9645,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b024f9d0-7c75-44c1-82ff-87410592020f")
-		(property "Reference" "#PWR046"
+		(property "Reference" "#PWR077"
 			(at 203.2 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -9705,7 +9705,7 @@
 		(instances
 			(project "8bit"
 				(path "/ce6ef060-f4bd-4228-ab8d-5cf6f386dba1/966ea3a8-e5ca-459e-b420-1b20e623a8eb"
-					(reference "#PWR046")
+					(reference "#PWR077")
 					(unit 1)
 				)
 			)
@@ -9723,7 +9723,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b1559ff0-8d52-49e5-82bb-08919d8e3706")
-		(property "Reference" "#PWR049"
+		(property "Reference" "#PWR080"
 			(at 255.27 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -9783,7 +9783,7 @@
 		(instances
 			(project "8bit"
 				(path "/ce6ef060-f4bd-4228-ab8d-5cf6f386dba1/966ea3a8-e5ca-459e-b420-1b20e623a8eb"
-					(reference "#PWR049")
+					(reference "#PWR080")
 					(unit 1)
 				)
 			)
@@ -9792,7 +9792,7 @@
 	(symbol
 		(lib_id "74xx:74LS00")
 		(at 242.57 147.32 0)
-		(unit 2)
+		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9801,7 +9801,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b4a22879-d5c6-47d6-81f8-e08c5f26caf0")
-		(property "Reference" "U68"
+		(property "Reference" "U27"
 			(at 242.5617 138.43 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9899,8 +9899,8 @@
 		(instances
 			(project "8bit"
 				(path "/ce6ef060-f4bd-4228-ab8d-5cf6f386dba1/966ea3a8-e5ca-459e-b420-1b20e623a8eb"
-					(reference "U68")
-					(unit 2)
+					(reference "U27")
+					(unit 1)
 				)
 			)
 		)
@@ -9916,7 +9916,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b9634f2b-f5d7-449c-9fcc-e9e6a68c1b22")
-		(property "Reference" "R100"
+		(property "Reference" "R90"
 			(at 188.468 87.63 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9980,7 +9980,7 @@
 		(instances
 			(project "8bit"
 				(path "/ce6ef060-f4bd-4228-ab8d-5cf6f386dba1/966ea3a8-e5ca-459e-b420-1b20e623a8eb"
-					(reference "R100")
+					(reference "R90")
 					(unit 1)
 				)
 			)
@@ -9997,7 +9997,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "bf1a0152-56fa-47b4-a466-369771eb9959")
-		(property "Reference" "R81"
+		(property "Reference" "R71"
 			(at 91.948 92.71 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10061,7 +10061,7 @@
 		(instances
 			(project "8bit"
 				(path "/ce6ef060-f4bd-4228-ab8d-5cf6f386dba1/966ea3a8-e5ca-459e-b420-1b20e623a8eb"
-					(reference "R81")
+					(reference "R71")
 					(unit 1)
 				)
 			)
@@ -10079,7 +10079,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c0dfd65c-3652-4e59-b293-1917c2e35e7d")
-		(property "Reference" "#PWR044"
+		(property "Reference" "#PWR078"
 			(at 226.06 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -10139,7 +10139,7 @@
 		(instances
 			(project "8bit"
 				(path "/ce6ef060-f4bd-4228-ab8d-5cf6f386dba1/966ea3a8-e5ca-459e-b420-1b20e623a8eb"
-					(reference "#PWR044")
+					(reference "#PWR078")
 					(unit 1)
 				)
 			)
@@ -10156,7 +10156,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c3ec3b90-af34-479b-96e4-5af937f54b61")
-		(property "Reference" "R77"
+		(property "Reference" "R67"
 			(at 71.628 92.71 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10220,7 +10220,7 @@
 		(instances
 			(project "8bit"
 				(path "/ce6ef060-f4bd-4228-ab8d-5cf6f386dba1/966ea3a8-e5ca-459e-b420-1b20e623a8eb"
-					(reference "R77")
+					(reference "R67")
 					(unit 1)
 				)
 			)
@@ -10237,7 +10237,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c525ff60-0d73-4fb8-ad8c-19364243a49a")
-		(property "Reference" "R76"
+		(property "Reference" "R66"
 			(at 66.548 87.63 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10301,7 +10301,7 @@
 		(instances
 			(project "8bit"
 				(path "/ce6ef060-f4bd-4228-ab8d-5cf6f386dba1/966ea3a8-e5ca-459e-b420-1b20e623a8eb"
-					(reference "R76")
+					(reference "R66")
 					(unit 1)
 				)
 			)
@@ -10319,7 +10319,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c8b365f3-8c7a-425d-8e37-bc33b93d8d94")
-		(property "Reference" "#PWR047"
+		(property "Reference" "#PWR076"
 			(at 158.75 190.5 0)
 			(hide yes)
 			(show_name no)
@@ -10379,7 +10379,7 @@
 		(instances
 			(project "8bit"
 				(path "/ce6ef060-f4bd-4228-ab8d-5cf6f386dba1/966ea3a8-e5ca-459e-b420-1b20e623a8eb"
-					(reference "#PWR047")
+					(reference "#PWR076")
 					(unit 1)
 				)
 			)
@@ -10397,7 +10397,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ca7ba848-a12d-4798-b7cc-b7e7d5ce2e91")
-		(property "Reference" "#PWR045"
+		(property "Reference" "#PWR079"
 			(at 226.06 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -10457,7 +10457,7 @@
 		(instances
 			(project "8bit"
 				(path "/ce6ef060-f4bd-4228-ab8d-5cf6f386dba1/966ea3a8-e5ca-459e-b420-1b20e623a8eb"
-					(reference "#PWR045")
+					(reference "#PWR079")
 					(unit 1)
 				)
 			)
@@ -10475,7 +10475,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "caa48d01-d78c-49f0-9fab-801283be779f")
-		(property "Reference" "U18"
+		(property "Reference" "U28"
 			(at 231.1303 34.29 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10567,7 +10567,7 @@
 		(instances
 			(project "8bit"
 				(path "/ce6ef060-f4bd-4228-ab8d-5cf6f386dba1/966ea3a8-e5ca-459e-b420-1b20e623a8eb"
-					(reference "U18")
+					(reference "U28")
 					(unit 1)
 				)
 			)
@@ -10584,7 +10584,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "caa5e5fb-9765-42d3-b26a-0668d58a6fab")
-		(property "Reference" "R80"
+		(property "Reference" "R70"
 			(at 86.868 87.63 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10648,7 +10648,7 @@
 		(instances
 			(project "8bit"
 				(path "/ce6ef060-f4bd-4228-ab8d-5cf6f386dba1/966ea3a8-e5ca-459e-b420-1b20e623a8eb"
-					(reference "R80")
+					(reference "R70")
 					(unit 1)
 				)
 			)
@@ -10665,7 +10665,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "cd5fb3b1-d08c-4952-b7ea-ed90fadc0fd1")
-		(property "Reference" "R94"
+		(property "Reference" "R84"
 			(at 157.988 87.63 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10729,7 +10729,7 @@
 		(instances
 			(project "8bit"
 				(path "/ce6ef060-f4bd-4228-ab8d-5cf6f386dba1/966ea3a8-e5ca-459e-b420-1b20e623a8eb"
-					(reference "R94")
+					(reference "R84")
 					(unit 1)
 				)
 			)
@@ -10746,7 +10746,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d61d4e2e-a3a4-47f7-a3f9-e43e52322e9c")
-		(property "Reference" "R86"
+		(property "Reference" "R76"
 			(at 117.348 87.63 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10810,7 +10810,7 @@
 		(instances
 			(project "8bit"
 				(path "/ce6ef060-f4bd-4228-ab8d-5cf6f386dba1/966ea3a8-e5ca-459e-b420-1b20e623a8eb"
-					(reference "R86")
+					(reference "R76")
 					(unit 1)
 				)
 			)
@@ -10827,7 +10827,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d9acd6aa-cf48-48f3-8f3a-2d51cc27d3f8")
-		(property "Reference" "R90"
+		(property "Reference" "R80"
 			(at 137.668 87.63 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10891,7 +10891,7 @@
 		(instances
 			(project "8bit"
 				(path "/ce6ef060-f4bd-4228-ab8d-5cf6f386dba1/966ea3a8-e5ca-459e-b420-1b20e623a8eb"
-					(reference "R90")
+					(reference "R80")
 					(unit 1)
 				)
 			)
@@ -10908,7 +10908,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d9c879a5-4062-4b58-b510-110a8687cf4d")
-		(property "Reference" "D67"
+		(property "Reference" "D66"
 			(at 243.332 116.84 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10984,7 +10984,7 @@
 		(instances
 			(project "8bit"
 				(path "/ce6ef060-f4bd-4228-ab8d-5cf6f386dba1/966ea3a8-e5ca-459e-b420-1b20e623a8eb"
-					(reference "D67")
+					(reference "D66")
 					(unit 1)
 				)
 			)
@@ -11002,7 +11002,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "db053a63-a041-4be9-9b0d-c43758da0218")
-		(property "Reference" "#PWR0186"
+		(property "Reference" "#PWR073"
 			(at 138.43 162.56 0)
 			(hide yes)
 			(show_name no)
@@ -11062,7 +11062,7 @@
 		(instances
 			(project "8bit"
 				(path "/ce6ef060-f4bd-4228-ab8d-5cf6f386dba1/966ea3a8-e5ca-459e-b420-1b20e623a8eb"
-					(reference "#PWR0186")
+					(reference "#PWR073")
 					(unit 1)
 				)
 			)
@@ -11079,7 +11079,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "dc03afff-0521-43e1-9d74-e968e39846b3")
-		(property "Reference" "R84"
+		(property "Reference" "R74"
 			(at 107.188 87.63 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11143,7 +11143,7 @@
 		(instances
 			(project "8bit"
 				(path "/ce6ef060-f4bd-4228-ab8d-5cf6f386dba1/966ea3a8-e5ca-459e-b420-1b20e623a8eb"
-					(reference "R84")
+					(reference "R74")
 					(unit 1)
 				)
 			)
@@ -11160,7 +11160,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "dec39ff8-9e31-4a02-8ae4-770f69a78416")
-		(property "Reference" "R71"
+		(property "Reference" "R61"
 			(at 41.148 92.71 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11224,7 +11224,7 @@
 		(instances
 			(project "8bit"
 				(path "/ce6ef060-f4bd-4228-ab8d-5cf6f386dba1/966ea3a8-e5ca-459e-b420-1b20e623a8eb"
-					(reference "R71")
+					(reference "R61")
 					(unit 1)
 				)
 			)
@@ -11241,7 +11241,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e0b5d11b-098b-411c-b75b-120c6bc6033a")
-		(property "Reference" "R88"
+		(property "Reference" "R78"
 			(at 127.508 87.63 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11305,7 +11305,7 @@
 		(instances
 			(project "8bit"
 				(path "/ce6ef060-f4bd-4228-ab8d-5cf6f386dba1/966ea3a8-e5ca-459e-b420-1b20e623a8eb"
-					(reference "R88")
+					(reference "R78")
 					(unit 1)
 				)
 			)
@@ -11322,7 +11322,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ee07e4f5-b1e7-44cb-9d74-d156e2ab8752")
-		(property "Reference" "R89"
+		(property "Reference" "R79"
 			(at 132.588 92.71 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11386,7 +11386,7 @@
 		(instances
 			(project "8bit"
 				(path "/ce6ef060-f4bd-4228-ab8d-5cf6f386dba1/966ea3a8-e5ca-459e-b420-1b20e623a8eb"
-					(reference "R89")
+					(reference "R79")
 					(unit 1)
 				)
 			)
@@ -11403,7 +11403,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f5871349-dbac-459e-9ef7-29a5dc2b536c")
-		(property "Reference" "R72"
+		(property "Reference" "R62"
 			(at 46.228 87.63 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11467,7 +11467,7 @@
 		(instances
 			(project "8bit"
 				(path "/ce6ef060-f4bd-4228-ab8d-5cf6f386dba1/966ea3a8-e5ca-459e-b420-1b20e623a8eb"
-					(reference "R72")
+					(reference "R62")
 					(unit 1)
 				)
 			)
@@ -11484,7 +11484,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "fc79ec15-3d0e-4613-8349-18395abccbdb")
-		(property "Reference" "D76"
+		(property "Reference" "D58"
 			(at 117.348 92.71 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11560,7 +11560,7 @@
 		(instances
 			(project "8bit"
 				(path "/ce6ef060-f4bd-4228-ab8d-5cf6f386dba1/966ea3a8-e5ca-459e-b420-1b20e623a8eb"
-					(reference "D76")
+					(reference "D58")
 					(unit 1)
 				)
 			)
@@ -11577,7 +11577,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ff553359-be96-4a03-828e-ef93f6909ff4")
-		(property "Reference" "D79"
+		(property "Reference" "D61"
 			(at 147.828 92.71 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11653,7 +11653,7 @@
 		(instances
 			(project "8bit"
 				(path "/ce6ef060-f4bd-4228-ab8d-5cf6f386dba1/966ea3a8-e5ca-459e-b420-1b20e623a8eb"
-					(reference "D79")
+					(reference "D61")
 					(unit 1)
 				)
 			)
