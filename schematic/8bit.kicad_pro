@@ -526,6 +526,7 @@
       "netlist": "",
       "plot": "",
       "specctra_dsn": "",
+      "step": "",
       "vrml": ""
     },
     "page_layout_descr_file": ""
@@ -536,7 +537,7 @@
       "method": 0,
       "sort_order": 0
     },
-    "bom_export_filename": "${PROJECTNAME}.csv",
+    "bom_export_filename": "../8bit.csv",
     "bom_fmt_presets": [],
     "bom_fmt_settings": {
       "field_delimiter": ",",
@@ -735,7 +736,7 @@
         "uuid": "ce6ef060-f4bd-4228-ab8d-5cf6f386dba1"
       }
     ],
-    "used_designators": "DS1,U1-111,U1001,D1-192,#PWR1-295,A1,C1-5,J1-2,JP1,R1-242,RV1,SW1-8",
+    "used_designators": "DS1,U1-111,U1001,D1-192,A1,C1-5,#PWR1-295,J1-2,JP1,R1-242,RV1,SW1-8",
     "variants": []
   },
   "sheets": [

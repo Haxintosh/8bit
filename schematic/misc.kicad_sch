@@ -1750,7 +1750,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 66.802 64.77 90)
 			(hide yes)
 			(show_name no)
@@ -1990,7 +1990,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 47.752 59.69 90)
 			(hide yes)
 			(show_name no)
@@ -2070,7 +2070,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm_Socket"
 			(at 71.12 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -2266,7 +2266,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 75.692 59.69 90)
 			(hide yes)
 			(show_name no)
@@ -2348,7 +2348,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm_Socket"
 			(at 160.02 177.8 0)
 			(hide yes)
 			(show_name no)
@@ -2793,7 +2793,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 50.038 99.06 90)
 			(hide yes)
 			(show_name no)
@@ -2953,7 +2953,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 56.642 64.77 90)
 			(hide yes)
 			(show_name no)
