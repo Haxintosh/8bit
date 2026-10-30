@@ -1,12 +1,24 @@
+![SAP-3 digital simulation](images/hero.png)
+
 # 8bit
 8-bit SAP-3 inspired architecture using 74xx series logic chips.
 
 ## Files
 KiCad design files can be found under `schematic/`, clone and open `8bit.kicad_pro`.  
 Schematic PDF is under `schematic/pdf/`.  
+
 Simulation files for Digital can be found under `simulation/`.  
+The hex files to program EEPROMs are under `simulation/hex/`.  
+
+Python code to generate ucode bin files is under `code/`, run the `code/generate_roms.py` to generate the files.  
+
+A simple assembly code is under `code/exmaples/`.  
+
+## Simulation
+The project uses the `hneemann/Digital` [Digital](https://github.com/hneemann/digital) simulator.  
 Open the `main_manual.dig` in Digital to view the simulation.  
-Some of the hex files to program EEPROMs are under `simulation/hex/`.  
+  
+Run the simulation and click on the AUTO_EN input for the clock to tick automatically, or you can also click the clock to pulse it manually.  
 
 ## Features
 - 8 bit wide data bus
