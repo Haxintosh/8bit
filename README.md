@@ -1,8 +1,7 @@
 ![SAP-3 digital simulation](images/hero.png)
 
 # 8bit
-8-bit SAP-3 inspired architecture using 74xx series logic chips.
-
+8-bit SAP-3 inspired breadboard CPU architecture using 74xx series logic chips.  
 ## Files
 KiCad design files can be found under `schematic/`, clone and open `8bit.kicad_pro`.  
 Schematic PDF is under `schematic/pdf/`.  
@@ -33,11 +32,8 @@ Run the simulation and click on the AUTO_EN input for the clock to tick automati
 - LCD output
 
 ## Demo
-1.  (Video) A simplified SAP-1 version running fibonacci sequence code.
-[![SAP-1 version running fibonacci sequence code](images/SAP1-FIB.png)](https://drive.google.com/file/d/1dBzOrb9bEsT9MGzf2OnXLOOiJT2EtECz/view?usp=sharing)
-
-2. SAP-3 in simulation
+1. SAP-3 in simulation
 ![SAP-3 digital simulation](images/main_manual_white_bg.png)
 
-3. (Video) SAP-3 running fibonacci code
+2. (Video) SAP-3 running fibonacci code
 [![SAP-3 running fibonacci sequence code](images/sap3_sim.png)](https://drive.google.com/file/d/1ePPz25QHvrzXUbd5AwPUnTJGdm06tiAX/view?usp=sharing)
