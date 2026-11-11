@@ -1,7 +1,7 @@
 ![SAP-3 digital simulation](images/hero.png)
 
 # 8bit
-8-bit SAP-3 inspired breadboard CPU architecture using 74xx series logic chips.  
+8-bit SAP-3 inspired breadboard CPU architecture design using 74xx series logic chips.  
 ## Files
 KiCad design files can be found under `schematic/`, clone and open `8bit.kicad_pro`.  
 Schematic PDF is under `schematic/pdf/`.  
@@ -11,7 +11,7 @@ The hex files to program EEPROMs are under `simulation/hex/`.
 
 Python code to generate ucode bin files is under `code/`, run the `code/generate_roms.py` to generate the files.  
 
-A simple assembly code is under `code/exmaples/`.  
+A simple assembly code is under `code/examples/`.  
 
 ## Simulation
 The project uses the `hneemann/Digital` [Digital](https://github.com/hneemann/digital) simulator.  
